@@ -1,6 +1,8 @@
 # Plannification Entretient Groupe 3 Nathan Bessa, Loïc Colat, Guillaume Dormoy, Christopher Malivert
 
-GIVEN the candidate **Robert** is available for a meeting the **14/05/2020**
+GIVEN the candidate **Robert** is available for a meeting the **14/05/2020** 
+  AND I have a list of rooms
+  AND I have a list of consultant
   
 WHEN I plannify the technical meeting with **Robert**
 
