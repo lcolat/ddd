@@ -1,0 +1,2 @@
+class Recruiter:
+    pass
